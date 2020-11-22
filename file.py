@@ -12,5 +12,6 @@ class Monster:
         self.name
 
 print("Willkommen in der Kluft der Beschwörer")
-name = input("Geben Sie Ihren Charaktername ein: ")
+name = input("Geben Sie Ihren Charaktername ein: TESTTEST")
+test = 1+1
 
